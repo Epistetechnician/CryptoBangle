@@ -1,10 +1,7 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Crypto Bangle Litepaper
+description: "Revolutionizing the Future of Digital Transactions: A Comprehensive Guide to the Crypto Bangel Whitepaper"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
-
+  name: "GPTus"
 baseurl: /
 
 source: .
